@@ -16,14 +16,6 @@
   <a href="https://blog.yufurry.cn/"><img src="https://img.shields.io/badge/Website-LanYing Blog-4285F4?style=flat-square&logo=googlechrome&logoColor=white" alt="Website" /></a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=BlueShadow323&color=8b5cf6&style=for-the-badge&label=Profile+views" />
-  &nbsp;
-  <img src="https://img.shields.io/github/followers/BlueShadow323?style=for-the-badge&label=GitHub+followers&color=2563eb&logo=github" />
-  &nbsp;
-  <img src="https://img.shields.io/github/stars/BlueShadow323?style=for-the-badge&label=Stars+on+owned+repos&affiliations=OWNER&color=d97706&logo=github" />
-</p>
-
 ---
 
 ## 关于我
