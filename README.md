@@ -44,6 +44,7 @@ Furry爱好者，专注于**全栈开发、桌面应用、UI设计、Web安全�
 | :--- | :--- |
 | GitHub | [github.com/BlueShadow323](https://github.com/BlueShadow323) |
 | Bilibili | [space.bilibili.com/3493126578637155](https://space.bilibili.com/3493126578637155) |
+| YuFurry | [www.yufurry.cn](https://www.yufurry.cn/) |
 | 个人博客 | [blog.yufurry.cn](https://blog.yufurry.cn/) |
 | 邮箱 | [2770844153@qq.com](mailto:2770844153@qq.com) |
 | QQ | `2770844153` |
