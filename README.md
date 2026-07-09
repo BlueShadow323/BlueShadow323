@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://blog.yufurry.cn/">
-    <img src="./icon.png" width="128" alt="LanYing" />
+    <img src="https://q2.qlogo.cn/headimg_dl?dst_uin=2770844153&spec=5" width="128" alt="LanYing" />
   </a>
 </p>
 
