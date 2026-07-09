@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://blog.yufurry.cn/">
-    <img src="/icon.png" width="128" alt="LanYing" />
+    <img src="./icon.png" width="128" alt="LanYing" />
   </a>
 </p>
 
