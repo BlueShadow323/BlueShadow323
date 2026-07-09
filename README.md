@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://blog.yufurry.cn/">
-    <img src="https://q2.qlogo.cn/headimg_dl?dst_uin=2770844153&spec=5" width="128" alt="LanYing" />
+    <img src="/icon.png" width="128" alt="LanYing" />
   </a>
 </p>
 
@@ -20,7 +20,7 @@
 | X（Twitter） | [x.com/LanYingUWU](https://x.com/LanYingUWU) |
 | Telegram | [t.me/LanYingZWZ](https://t.me/LanYingZWZ) |
 | My Blog | [blog.yufurry.cn](https://blog.yufurry.cn/) |
-| Email | [2770844153@qq.com](mailto:2770844153@qq.com) |
+| Email | [lanying323it@outlook.com](mailto:lanying323it@outlook.com) |
 | QQ | [2770844153](https://qm.qq.com/cgi-bin/qm/qr?k=QJf52lYSxcTDPrNjSFVlUUq71ylZp8AD) |
 
 ---
